@@ -1,2 +1,2 @@
-# rick-and-morty-api-asignment
+# rick-and-morty-api-assignment
 Mindbowser Assignment for React-redux
